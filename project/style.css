@@ -1,0 +1,35 @@
+
+body{ background-image: url(web.jpg);
+    background-size: cover;
+    
+}
+    
+    h1{
+    color: blue;
+    text-align: center;
+    border: 5px;
+    cursor: pointer;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    border-style:double;
+    text-transform: capitalize;
+    margin: 20px;
+    font-size: large;
+}
+p{
+    text-transform: capitalize;
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+span{
+    font size: 50em;; 
+}
